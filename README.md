@@ -16,10 +16,19 @@ net start audiosrv' > ~/Desktop/FW-play.lnk
 #### for Linux Ubuntu (18 and above) desktop Sortcut:
 <pre>echo '[Desktop Entry]
 Name=FW-play
-Exec=fw-play
-Icon=fw-play
+Exec=killall pulseaudio
+Icon=livepatch
 Type=Application
-Categories=GTK;GNOME;Utility;' > ~/.local/share/applications/FW-play.desktop
+Categories=GTK;GNOME;Utility;
+Terminal=false' > ~/.local/share/applications/FW-play.desktop
 cp !$ ~/Desktop/
+chmod u+x ~/Desktop/FW-play.desktop
+gio set !$ "metadata::trusted" true
 
 </pre>
+
+
+Todoes:
+- [x] for Linux Ubuntu
+- [ ] for Windows 7+
+- [ ] for Mac OS 1x+

@@ -9,13 +9,14 @@
 #### https://www. rockradio.com/
 
 #### for Windows (7 and above) desktop Sortcut:
-net stop audiosrv
-net start audiosrv
+<pre>echo 'net stop audiosrv
+net start audiosrv' > ~/Desktop/FW-play.lnk
+</pre>
 
 #### for Linux Ubuntu (18 and above) desktop Sortcut:
 <pre>echo '[Desktop Entry]
 Name=RestartAudio
 Exec=killall pulseaudio
 Terminal=true
-Type=Application' > ~/Desktop/FW-play.lnk
-<pre>
+Type=Application' > ~/Desktop/FW-play
+</pre>

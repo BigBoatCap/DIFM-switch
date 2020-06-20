@@ -15,9 +15,18 @@ net start audiosrv' > ~/Desktop/FW-play.lnk
 
 #### for Linux Ubuntu (18 and above) desktop Sortcut:
 <pre>echo '[Desktop Entry]
-Name=RestartAudio
-Exec=killall pulseaudio
-Terminal=true
-Type=Application' > ~/Desktop/FW-play
+Name=FW-Play
+Comment=Play Forward on any DI-Family audio stream
+Categories=GNOME;GTK;System;
+TryExec=nautilus
+Exec=nautilus --no-default-window --no-desktop burn:///
+Icon=livepatch
+MimeType=x-content/shortcut;
+StartupNotify=true
+Terminal=false
+Type=Application
+OnlyShowIn=GNOME;
+NoDisplay=true
+' > ~/Desktop/FW-play
 chmod u+x !$
 </pre>

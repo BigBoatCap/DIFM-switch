@@ -9,8 +9,9 @@
 #### https://www. rockradio.com/
 
 #### for Windows (7 and above) desktop Sortcut:
-<pre>echo 'net stop audiosrv
-net start audiosrv' > ~/Desktop/FW-play.lnk
+<pre>echo net stop audiosrv > %HOMEPATH%/Desktop/FW-play.lnk
+echo net start audiosrv >> %HOMEPATH%/Desktop/FW-play.lnk
+
 </pre>
 
 #### for Linux Ubuntu (18 and above) desktop Sortcut:

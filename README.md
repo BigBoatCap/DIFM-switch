@@ -19,4 +19,5 @@ Name=RestartAudio
 Exec=killall pulseaudio
 Terminal=true
 Type=Application' > ~/Desktop/FW-play
+chmod u+x !$
 </pre>

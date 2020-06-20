@@ -13,8 +13,9 @@ net stop audiosrv
 net start audiosrv
 
 #### for Linux Ubuntu (18 and above) desktop Sortcut:
-echo '[Desktop Entry]
+<pre>echo '[Desktop Entry]
 Name=RestartAudio
 Exec=killall pulseaudio
 Terminal=true
 Type=Application' > ~/Desktop/FW-play.lnk
+<pre>

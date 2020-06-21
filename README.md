@@ -33,3 +33,5 @@ Todoes:
 - [x] for Linux Ubuntu
 - [ ] for Windows 7+
 - [ ] for Mac OS 1x+
+- [ ] for Android OS
+- [ ] for iOS

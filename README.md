@@ -36,10 +36,11 @@ gio set !$ "metadata::trusted" true
 </pre>
 ## #
 ### for Windows (7 and above) desktop Sortcut:
-<pre>echo sc stop audiosrv > %HOMEPATH%\FW-play.cmd
-echo sc start audiosrv >> %HOMEPATH%\FW-play.cmd
-echo pause >> %HOMEPATH%\FW-play.cmd
-mklink %HOMEPATH%\Desktop\FW-play.lnk %HOMEPATH%\FW-play.cmd
+<pre>echo sc stop audiosrv > C:\Users\%USERNAME%\AppData\Roaming\FW-play.cmd
+echo sc start audiosrv >> !$
+echo pause >> !$
+mklink C:\Users\%USERNAME%\Desktop\FW-play.lnk C:\Users\%USERNAME%\AppData\Roaming\FW-play.cmd
+
 
 </pre>
 

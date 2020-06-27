@@ -11,7 +11,7 @@
 #### for Windows (7 and above) desktop Sortcut:
 <pre>echo sc stop audiosrv > %HOMEPATH%/Desktop/FW-play.cmd
 echo sc start audiosrv >> %HOMEPATH%/Desktop/FW-play.cmd
-pause
+echo pause >> %HOMEPATH%/Desktop/FW-play.cmd
 
 </pre>
 

@@ -8,15 +8,19 @@
 ### https://www. jazzradio.com/
 ### https://www. radiotunes.com/ aka https://www. sky.fm/
 ### https://www. rockradio.com/
+
 ## #
 
- <img src='https://raw.githubusercontent.com/BigBoatCap/DIFM-switch/master/Selection_042.png' />
+<img src='https://raw.githubusercontent.com/BigBoatCap/DIFM-switch/master/Selection_042.png' /> 
+
 ## #
+
 ## All you have to do - is to restart your OS audio service.
 
-## Here are some Desktop shortcut samples. 
-## A desktop shortcut "FW-play" may be created:
+## Here are some Desktop shortcut samples. A desktop shortcut "FW-play" may be created:
+
 ## #
+
 ### for Linux Ubuntu (18 and above) desktop Sortcut:
 <pre>echo '[Desktop Entry]
 Name=FW-play

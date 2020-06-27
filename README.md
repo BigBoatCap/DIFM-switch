@@ -12,7 +12,7 @@
 
 ## # ###########################################################################
 
-![alt text](https://github.com/BigBoatCap/DIFM-switch.git/raw/master/Selection_042.png?raw=true)
+ - `raw.githubusercontent.com/BigBoatCap/DIFM-switch/master/DirectoryPath/Selection_042.png?sanitize=true&raw=true`
 
 ## All you have to do - is to restart your OS audio service.
 

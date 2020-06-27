@@ -1,4 +1,4 @@
-# DIFM-switch Brief explanation:
+#  D I . F M  Play Forward brief explanation:
 ## While listenning one of these radiostations you can use a Premium "Skip" feauture aka "Play Forward" bug easily.
 
 ### thanks to  D I . F M  family internet-radio websites:

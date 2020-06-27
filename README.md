@@ -43,6 +43,12 @@ echo pause >> C:\Users\%USERNAME%\Desktop\FW-play.bat
 
 </pre>
 
+## #
+
+<img src='https://raw.githubusercontent.com/BigBoatCap/DIFM-switch/master/Selection_043.png' /> 
+
+## #
+
 
 Todoes:
 - [x] for Linux Ubuntu

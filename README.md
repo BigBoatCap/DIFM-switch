@@ -53,7 +53,7 @@ echo pause >> C:\Users\%USERNAME%\Desktop\FW-play.bat
 Todoes:
 - [x] for Linux Ubuntu
 - [ ] for Windows 7+ 
-  - [ ] eliminate mklink with batch commands
+  - [ ] test shortcut
 - [ ] for Mac OS 1x+
 - [ ] for Android OS
 - [ ] for iOS

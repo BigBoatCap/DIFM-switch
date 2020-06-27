@@ -2,7 +2,7 @@
 ## While listenning one of these radiostations you can use a Premium "Skip" feauture aka "Play Forward" bug easily.
 ## # ###########################################################################
 
-### thanks to  D I . F M  radio family websites:
+### thanks to  D I . F M  family internet-radio websites:
 
 ### https://www. classicalradio.com/
 ### https://www. di.fm/

@@ -50,6 +50,13 @@ echo sc start audiosrv >> C:\Users\%USERNAME%\Desktop\FW-play.bat
 
 ## #
 
+### A hint for AFK pause ( also it works for youtube ):
+
+<img src='https://raw.githubusercontent.com/BigBoatCap/DIFM-switch/master/Selection_042.png' /> 
+
+## #
+
+### Just press \<SPASE\> and the best music goes on with no interruptions! =)
 
 Todoes:
 - [x] for Linux Ubuntu

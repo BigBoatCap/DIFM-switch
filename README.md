@@ -37,7 +37,7 @@ gio set !$ "metadata::trusted" true
 
 </pre>
 ## #
-### to Create a desktop Batch script for Windows (7 and above) copy and paste into your cmd ( \<WinKey\>+\<R\> ==\> cmd ):
+### to Create a desktop Batch script for Windows 10 copy and paste into your cmd ( \<WinKey\>+\<R\> ==\> cmd ):
 <pre>echo sc stop audiosrv > C:\Users\%USERNAME%\Desktop\FW-play.bat
 echo pause >> C:\Users\%USERNAME%\Desktop\FW-play.bat
 echo sc start audiosrv >> C:\Users\%USERNAME%\Desktop\FW-play.bat
@@ -61,8 +61,8 @@ echo sc start audiosrv >> C:\Users\%USERNAME%\Desktop\FW-play.bat
 
 Todoes:
 - [x] for Linux Ubuntu
-- [x] for Windows 7+ 
-  - [ ] test shortcut
+- [x] for Windows 10
+  - [ ] test shortcut on Windows 7 and 8
 - [ ] for Mac OS 1x+
 - [ ] for Android OS
 - [ ] for iOS

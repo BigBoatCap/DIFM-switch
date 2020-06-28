@@ -53,7 +53,7 @@ echo sc start audiosrv >> C:\Users\%USERNAME%\Desktop\FW-play.bat
 
 ### A hint for AFK pause ( also it works for youtube ):
 
-<img src='https://raw.githubusercontent.com/BigBoatCap/DIFM-switch/master/Selection_042.png' /> 
+<img src='https://raw.githubusercontent.com/BigBoatCap/DIFM-switch/master/Selection_044.png' /> 
 
 ## #
 

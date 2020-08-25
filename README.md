@@ -69,7 +69,7 @@ killall coreaudiod
 
 Todoes:
 - [x] for Linux Ubuntu
-- [x] for Windows 10
+- [ ] for Windows 10
   - [ ] test shortcut on Windows 7 and 8
 - [ ] for Mac OS 1x+
   - [ ] test coreaudiod service restart

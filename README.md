@@ -37,7 +37,7 @@ gio set !$ "metadata::trusted" true
 
 </pre>
 ## #
-to Create a desktop Batch script for" **Windows 10 **copy and paste into your cmd **( \<WinKey\>+\<R\> ==\> cmd ) :
+to Create a desktop Batch script for **Windows 10** copy and paste into your cmd ( \<WinKey\>+\<R\> ==\> cmd ) :
 <pre>echo sc stop audiosrv > C:\Users\%USERNAME%\Desktop\FW-play.bat
 echo sc start audiosrv >> C:\Users\%USERNAME%\Desktop\FW-play.bat
 echo pause >> C:\Users\%USERNAME%\Desktop\FW-play.bat
@@ -48,16 +48,16 @@ echo pause >> C:\Users\%USERNAME%\Desktop\FW-play.bat
 
 <img src='https://raw.githubusercontent.com/BigBoatCap/DIFM-switch/master/Selection_043.png' /> 
 
-## #
 
-##### Windows Start => Utilities => Terminal, 
-##### or press Command - Spacebar to launch Spotlight => type "Terminal".
+<!--
+ MacOS Start => Utilities => Terminal, 
+ or press Command - Spacebar to launch Spotlight => type "Terminal".
 
-##### Service restart for MacOS (10 and above) copy and paste into your Terminal:
-<pre>
-killall coreaudiod
-</pre>
-## #
+ Service restart for MacOS (10 and above) copy and paste into your Terminal:
+ <pre>
+ killall coreaudiod
+ </pre>
+-->
 
 ##### A hint for AFK pause ( also it works for Youtube ):
 

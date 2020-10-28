@@ -22,7 +22,7 @@
 
 ## #
 
-###  **to Create a desktop Sortcut for **Linux Ubuntu (18 and above) copy and paste into your Terminal :
+to Create a desktop Sortcut for **Linux Ubuntu (18 and above)** copy and paste into your Terminal :
 <pre>echo '[Desktop Entry]
 Name=FW-play
 Exec=killall pulseaudio
@@ -37,7 +37,7 @@ gio set !$ "metadata::trusted" true
 
 </pre>
 ## #
-### **to Create a desktop Batch script for" **Windows 10 copy and paste into your cmd ( \<WinKey\>+\<R\> ==\> cmd ) :
+to Create a desktop Batch script for" **Windows 10 copy and paste into your cmd **( \<WinKey\>+\<R\> ==\> cmd ) :
 <pre>echo sc stop audiosrv > C:\Users\%USERNAME%\Desktop\FW-play.bat
 echo sc start audiosrv >> C:\Users\%USERNAME%\Desktop\FW-play.bat
 echo pause >> C:\Users\%USERNAME%\Desktop\FW-play.bat

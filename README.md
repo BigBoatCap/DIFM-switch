@@ -1,7 +1,7 @@
 #  D I . F M  Play Forward brief explanation:
 ## While listenning one of these radiostations you can use a Premium "Skip" feature aka "Play Forward" bug easily.
 
-### thanks to  D I . F M  family internet-radio websites:
+### Many Thanks to  D I . F M - the greatest internet-radio websites collection with so many gene-oriented music subcategories:
 
 ### https://www. classicalradio.com/
 ### https://www. di.fm/
@@ -16,9 +16,9 @@
 
 ## #
 
-## All you have to do - is to restart your OS audio service.
+_All you have to do - is to restart your OS audio service._
 
-## Here are some Desktop shortcut samples. A desktop shortcut "FW-play" may be created :
+ Here are some Desktop shortcut samples. A desktop shortcut **"FW-play"** may be created:
 
 ## #
 

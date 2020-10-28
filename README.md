@@ -3,12 +3,12 @@
 
 ### Many Thanks to  D I . F M - the greatest internet-radio websites collection with so many gene-oriented music subcategories:
 
-### https://www. classicalradio.com/
-### https://www. di.fm/
-### https://www. jazzradio.com/
-### https://www. radiotunes.com/ former https://www. sky.fm/
-### https://www. rockradio.com/
-### https://www. zenradio.com/
+- https://www. classicalradio.com/
+- https://www. di.fm/
+- https://www. jazzradio.com/
+- https://www. radiotunes.com/ _former sky.fm_
+- https://www. rockradio.com/
+- https://www. zenradio.com/
 
 ## #
 

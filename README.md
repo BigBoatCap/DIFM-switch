@@ -1,7 +1,7 @@
 #  D I . F M  Play Forward brief explanation:
-## While listenning one of these radiostations you can use a Premium "Skip" feature aka "Play Forward" bug easily.
+ While listenning one of these radiostations you can use a Premium "Skip" feature aka "Play Forward" bug easily.
 
-### Many Thanks to  D I . F M - the greatest internet-radio websites collection with so many gene-oriented music subcategories:
+# Many Thanks to  D I . F M - the greatest internet-radio websites collection with so many gene-oriented music subcategories:
 
 - https://www. classicalradio.com/
 - https://www. di.fm/
@@ -59,13 +59,13 @@ killall coreaudiod
 </pre>
 ## #
 
-### A hint for AFK pause ( also it works for youtube ):
+## A hint for AFK pause ( also it works for youtube ):
 
 <img src='https://raw.githubusercontent.com/BigBoatCap/DIFM-switch/master/Selection_044.png' /> 
 
 ## #
 
-### Just press \<SPASE\> and the best music goes on with no interruptions! =)
+## Just press \<SPASE\> and the best music goes on with no interruptions! =)
 
 Todoes:
 - [x] for Linux Ubuntu

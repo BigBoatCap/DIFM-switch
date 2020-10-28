@@ -50,8 +50,8 @@ echo pause >> C:\Users\%USERNAME%\Desktop\FW-play.bat
 
 ## #
 
-##### Utilities and double-click on Terminal, 
-##### or press Command - spacebar to launch Spotlight and type "Terminal," then double-click the search result.
+##### Windows Start => Utilities => Terminal, 
+##### or press Command - Spacebar to launch Spotlight => type "Terminal".
 
 ##### Service restart for MacOS (10 and above) copy and paste into your Terminal:
 <pre>
@@ -59,7 +59,7 @@ killall coreaudiod
 </pre>
 ## #
 
-## A hint for AFK pause ( also it works for youtube ):
+##### A hint for AFK pause ( also it works for Youtube ):
 
 <img src='https://raw.githubusercontent.com/BigBoatCap/DIFM-switch/master/Selection_044.png' /> 
 

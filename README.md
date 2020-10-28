@@ -69,6 +69,8 @@ killall coreaudiod
 
 Todoes:
 - [x] for Linux Ubuntu
+  - [x] 18.04
+  - [x] 20.04 <== better behaviour
 - [ ] for Windows 10
   - [ ] test shortcut on Windows 7 and 8
 - [ ] for Mac OS 1x+

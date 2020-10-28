@@ -1,5 +1,5 @@
 #  D I . F M  Play Forward brief explanation:
- While listenning one of these radiostations you can use a Premium "Skip" feature aka "Play Forward" bug easily.
+ While listenning a station you are actually able to use a Premium "Skip" feature aka "Play Forward" bug in the followng way.
 
 # Many Thanks to  D I . F M - the greatest internet-radio websites collection with so many gene-oriented music subcategories:
 

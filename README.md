@@ -22,7 +22,7 @@
 
 ## #
 
-### to Create a desktop Sortcut for Linux Ubuntu (18 and above) copy and paste into your Terminal:
+### <b>to Create a desktop Sortcut for </b>Linux Ubuntu (18 and above)<b> copy and paste into your Terminal</b>:
 <pre>echo '[Desktop Entry]
 Name=FW-play
 Exec=killall pulseaudio
@@ -37,7 +37,7 @@ gio set !$ "metadata::trusted" true
 
 </pre>
 ## #
-### to Create a desktop Batch script for Windows 10 copy and paste into your cmd ( \<WinKey\>+\<R\> ==\> cmd ):
+### <b text="to Create a desktop Batch script for"/>Windows 10 <b text="copy and paste into your cmd ( \<WinKey\>+\<R\> ==\> cmd )" />:
 <pre>echo sc stop audiosrv > C:\Users\%USERNAME%\Desktop\FW-play.bat
 echo sc start audiosrv >> C:\Users\%USERNAME%\Desktop\FW-play.bat
 echo pause >> C:\Users\%USERNAME%\Desktop\FW-play.bat
@@ -71,9 +71,9 @@ Todoes:
 - [x] for Linux Ubuntu
   - [x] 18.04
   - [x] 20.04 <== better behaviour
-- [ ] for Windows 10
+- [ ] for Windows 7+
   - [ ] test shortcut on Windows 7 and 8
-- [ ] for Mac OS 1x+
+- [ ] for Mac OS 10+
   - [ ] test coreaudiod service restart
 - [ ] for Android OS
 - [ ] for iOS

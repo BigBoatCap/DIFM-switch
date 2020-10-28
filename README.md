@@ -1,7 +1,7 @@
-#  D I . F M  Play Forward brief explanation:
+#####  D I . F M  Play Forward brief explanation:
  While listenning a station you are actually able to use a Premium "Skip" feature aka "Play Forward" bug in the followng way.
 
-# Many Thanks to  D I . F M - the greatest internet-radio websites collection with so many gene-oriented music subcategories:
+#### Many Thanks to  D I . F M - the greatest internet-radio websites collection with so many gene-oriented music subcategories:
 
 - https://www. classicalradio.com/
 - https://www. di.fm/
@@ -37,7 +37,7 @@ gio set !$ "metadata::trusted" true
 
 </pre>
 ## #
-to Create a desktop Batch script for" **Windows 10 copy and paste into your cmd **( \<WinKey\>+\<R\> ==\> cmd ) :
+to Create a desktop Batch script for" **Windows 10 **copy and paste into your cmd **( \<WinKey\>+\<R\> ==\> cmd ) :
 <pre>echo sc stop audiosrv > C:\Users\%USERNAME%\Desktop\FW-play.bat
 echo sc start audiosrv >> C:\Users\%USERNAME%\Desktop\FW-play.bat
 echo pause >> C:\Users\%USERNAME%\Desktop\FW-play.bat
@@ -50,10 +50,10 @@ echo pause >> C:\Users\%USERNAME%\Desktop\FW-play.bat
 
 ## #
 
-#### Utilities and double-click on Terminal, 
-#### or press Command - spacebar to launch Spotlight and type "Terminal," then double-click the search result.
+##### Utilities and double-click on Terminal, 
+##### or press Command - spacebar to launch Spotlight and type "Terminal," then double-click the search result.
 
-### Service restart for MacOS (10 and above) copy and paste into your Terminal:
+##### Service restart for MacOS (10 and above) copy and paste into your Terminal:
 <pre>
 killall coreaudiod
 </pre>
@@ -65,7 +65,7 @@ killall coreaudiod
 
 ## #
 
-## Just press \<SPASE\> and the best music goes on with no interruptions! =)
+##### Just press \<SPASE\> and the best music goes on with no interruptions! =)
 
 Todoes:
 - [x] for Linux Ubuntu

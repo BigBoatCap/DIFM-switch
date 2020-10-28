@@ -22,7 +22,7 @@
 
 ## #
 
-### <bto Create a desktop Sortcut for </b>Linux Ubuntu (18 and above)<b> copy and paste into your Terminal</b>:
+### <b> to Create a desktop Sortcut for </b>Linux Ubuntu (18 and above)<b> copy and paste into your Terminal</b>:
 <pre>echo '[Desktop Entry]
 Name=FW-play
 Exec=killall pulseaudio

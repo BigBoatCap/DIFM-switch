@@ -37,6 +37,7 @@ gio set !$ "metadata::trusted" true
 
 </pre>
 ## #
+<!--
 to Create a desktop Batch script for **Windows 10** copy and paste into your cmd ( \<WinKey\>+\<R\> ==\> cmd ) :
 <pre>echo sc stop audiosrv > C:\Users\%USERNAME%\Desktop\FW-play.bat
 echo sc start audiosrv >> C:\Users\%USERNAME%\Desktop\FW-play.bat
@@ -47,7 +48,7 @@ echo pause >> C:\Users\%USERNAME%\Desktop\FW-play.bat
 ## #
 
 <img src='https://raw.githubusercontent.com/BigBoatCap/DIFM-switch/master/Selection_043.png' /> 
-
+-->
 
 <!--
  MacOS Start => Utilities => Terminal, 
